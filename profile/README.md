@@ -1,6 +1,3 @@
-# .github
-AI-augmented software engineering to solve real-world problems
-
 # Shoebill AIO
 
 > **AI-augmented software engineering to solve real-world problems.**
